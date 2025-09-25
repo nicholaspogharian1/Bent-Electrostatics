@@ -1,1 +1,2 @@
 # Bent-Electrostatics
+This code runs simulations of positively and negatively charged particles near an undulating dielectric interface. Simulation specifications including simulation length, number and valence of particles, and particle sizes can be edited in 'main.c' To run simulations, compile 'main.c' and run from the command line. This requires one command line argument which denotes the run number you are performing.
