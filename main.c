@@ -7,7 +7,7 @@
 #include <stdbool.h>
 #include <time.h>
 #include <string.h>
-#include"forc.c"
+#include"force.c"
 #include"gaussian.c"
 
 /*
